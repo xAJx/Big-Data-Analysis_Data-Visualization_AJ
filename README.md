@@ -10,4 +10,6 @@
 
 -----------------------------------
 
+# 補充圖片:  資料收集、資料處理、資料視覺化 等 對應的軟體比格
+
 ![資料收集、資料處理、資料視覺化](https://github.com/xAJx/Big-Data-Analysis_Data-Visualization_AJ/assets/42112934/549c7a4e-5528-4fc6-96fb-b483b84f4645)
