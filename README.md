@@ -1,4 +1,4 @@
-# 延續上一個 Threading_concurrent-futures_Resptile_Store-Excel 儲存庫
+# 延續上一個 *Threading_concurrent-futures_Resptile_Store-Excel* 儲存庫
 
 ## 將獲取的 Excel _資料視覺化_，本篇並非採用常見的視覺化軟體_例如: *Tableau* 、 *Power BI* ， 而是直接用 python 內部的 *matplotlib*
 
